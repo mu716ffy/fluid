@@ -1,0 +1,8 @@
+name: package1
+version: 1.0.0
+description: Описание пакета
+dependencies:
+  - dependency1
+  - dependency2
+url: https://github.com/mu716ffy/fluid/releases/download/package1-1.0.0/package1.tar.gz
+checksum: sha256:1234567890
